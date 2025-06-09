@@ -3,7 +3,6 @@
 
 ### 5. **Quotient (Thesis Project)**
 
-```markdown
 # Quotient
 
 ## 📝 Description
