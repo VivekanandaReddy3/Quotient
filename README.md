@@ -26,3 +26,4 @@ git clone https://github.com/VivekanandaReddy3/Quotient.git
 cd Quotient
 npm install
 npm start
+
