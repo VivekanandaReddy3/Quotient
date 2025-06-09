@@ -22,7 +22,7 @@ Quotient is a scalable administrative dashboard built as my Bachelor's thesis pr
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/Quotient.git
+git clone https://github.com/VivekanandaReddy3/Quotient.git
 cd Quotient
 npm install
 npm start
